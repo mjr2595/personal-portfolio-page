@@ -31,15 +31,15 @@
   padding-bottom: 50px;
 }
 
-.bg-1 { 
+.blue {
     background-color: #66ccff;
     color: #555555;
 }
-.bg-2 { 
+.light-gray {
     background-color: #e6e6e6;
     color: #555555;
 }
-.bg-3 { 
+.gray {
     background-color: #cccccc;
     color: #555555;
 }
